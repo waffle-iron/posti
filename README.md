@@ -1,6 +1,6 @@
 <h1>
-  Welcome to
-  <img src="https://github.com/naphipps/posti/raw/master/resources/posti-logo-256x256%402x.png" align="center" width="50"></img>
+  Welcome to Posti
+  <img src="https://github.com/naphipps/posti/raw/master/resources/posti-logo-256x256%402x.png" align="left" width="90"></img>
   <a href="https://trello.com/b/vgFF7dbp/posti" target="_blank">
     <img src="https://github.com/naphipps/posti/raw/master/resources/trello-logo-blue.png" align="right" width="150"/>
   </a>
