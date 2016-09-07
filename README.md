@@ -6,7 +6,7 @@
   </a>
 </h1>
 <br/>
-You might have arrived here from my previous <a href="https://github.com/naphipps/SeatingSystem">project</a> so you may already be familiar about this topic. Here, you will find the code I'm currently working in order to create a seating chart system so you can create seating charts with varied sized groups and rotations for your consecutive events.
+You might have arrived here from my previous <a href="https://github.com/naphipps/SeatingSystem">project</a> so you may already be familiar about this topic. Here, you will find the code I'm currently working in order to create a seating chart system - that I've coined as _Posti_ - so you can create seating charts with varied sized groups and rotations for your consecutive events.
 
 <!--Create seating charts with varied sized groups and rotations for your consecutive events.-->
 
