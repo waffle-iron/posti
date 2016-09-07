@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/naphipps/posti.png?label=ready&title=Ready)](https://waffle.io/naphipps/posti)
 <h1>
   Welcome to Posti
   <img src="https://github.com/naphipps/posti/raw/master/resources/posti-logo-256x256%402x.png" align="left" width="90"></img>
